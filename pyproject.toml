@@ -1,0 +1,10 @@
+[project]
+name = "mpd-ict-codes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "marimo>=0.24.2",
+    "polars>=1.44.2",
+]
